@@ -1,0 +1,12 @@
+{
+  "album": "示例播客",
+  "artist": "示例主播",
+  "album_artist": "示例制作组",
+  "genre": "Podcast",
+  "date": "2025",
+  "cover": "cover.jpg",
+  "track_numbering": "auto",
+  "track_number_start": 1,
+  "track_sort_order": "filename",
+  "title_from_filename": false
+}
